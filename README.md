@@ -18,6 +18,10 @@
 
 3. https://www.sparkfuneducation.com/materials.html
 
+### Electricity:
+
+1. https://www.sparkfuneducation.com/video-resources/electricity.html
+
 ## IoT with nodeJS 
 
 ### Visualization App using Arduino and nodeJS:
