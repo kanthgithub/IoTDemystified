@@ -29,10 +29,22 @@
 
 1. https://www.sparkfuneducation.com/video-resources/electricity.html
 
+## Instructible Circuits:
+
+https://www.instructables.com/circuits/
+
+https://www.instructables.com/class/Internet-of-Things-Class/
+
 
 ## IoT with nodeJS 
 
 ### Visualization App using Arduino and nodeJS:
 
-1. https://hackernoon.com/create-your-first-arduino-node-js-iot-visualization-app-in-under-15-minutes-619f8e6f7181
+https://hackernoon.com/create-your-first-arduino-node-js-iot-visualization-app-in-under-15-minutes-619f8e6f7181
+
+### Easy Node.JS + WebSockets LED Controller for Raspberry Pi
+
+https://www.instructables.com/id/Easy-NodeJS-WebSockets-LED-Controller-for-Raspberr/
+
+###
 
