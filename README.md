@@ -10,6 +10,9 @@
 
 1. https://blog.sparkfuneducation.com/what-is-a-breadboard
 
+2. https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard
+
+
 ### Basic-Circuits:
 
 1. https://www.sparkfuneducation.com/products/basic-circuits.html
@@ -21,6 +24,7 @@
 ### Electricity:
 
 1. https://www.sparkfuneducation.com/video-resources/electricity.html
+
 
 ## IoT with nodeJS 
 
