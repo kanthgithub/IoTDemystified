@@ -12,6 +12,10 @@
 
 2. https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard
 
+#### Holes
+
+    1. https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard#holes
+
 
 ### Basic-Circuits:
 
