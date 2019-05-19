@@ -16,6 +16,22 @@
 
 1. https://www.sciencebuddies.org/science-fair-projects/references/how-to-use-a-breadboard#holes
 
+### Electronic Components (Electronzap learning electronics):
+
+1. http://electronzap.com/
+
+2. http://electronzap.com/capacitor-component/
+
+3. http://electronzap.com/inductor-component/
+
+4. http://electronzap.com/diode-led-electronic-component-basics/
+
+5. http://electronzap.com/resistor-component-for-electronic-circuits/
+
+6. http://electronzap.com/light-dependent-resistor-ldr-electronics-component-basics/
+
+7. https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all
+
 
 ### Basic-Circuits:
 
